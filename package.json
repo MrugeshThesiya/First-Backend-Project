@@ -7,11 +7,6 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords": [
-    "javascript",
-    "backend",
-    "node"
-  ],
   "author": "Mrugesh Thesiya",
   "license": "ISC",
   "devDependencies": {
